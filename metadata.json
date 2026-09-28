@@ -1,0 +1,6 @@
+{
+  "name": "LocalEvent",
+  "description": "Discover, compare, save and manage trusted local event service providers across Visakhapatnam and Indian celebration hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
