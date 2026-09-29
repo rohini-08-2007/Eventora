@@ -15,6 +15,7 @@ import { VendorDetailModal } from './components/VendorDetailModal';
 import { BookingModal } from './components/BookingModal';
 import { AuthModal } from './components/AuthModal';
 import { NotificationDrawer } from './components/NotificationDrawer';
+import { ChatWidget } from './components/ChatWidget';
 import {
   ShieldCheck,
   CalendarCheck,
@@ -196,6 +197,7 @@ const AppContent: React.FC = () => {
 
       <AuthModal />
       <NotificationDrawer />
+      <ChatWidget />
     </div>
   );
 };
